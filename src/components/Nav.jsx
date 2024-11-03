@@ -49,12 +49,12 @@ const Nav = () => {
             </Link>
             </li>
             <li className='py-6 text-4xl'>
-            <Link onClick={handleClick} to='work' smooth={true} duration={500} offset={-10}>
+            <Link onClick={handleClick} to='work' smooth={true} duration={500} offset={-80}>
                 Work
             </Link>
             </li>
             <li className='py-6 text-4xl'>
-            <Link onClick={handleClick} to='skills' smooth={true} duration={500} >
+            <Link onClick={handleClick} to='skills' smooth={true} duration={500} offset={-80} >
                 Skills
             </Link>
             </li>
