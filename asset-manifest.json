@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.37f1a7cb.css",
+    "main.js": "/Personal-Portfolio/static/js/main.ef3d32b5.js",
+    "static/media/bakdes11.JPG": "/Personal-Portfolio/static/media/bakdes11.f795fd9d8052abfe1a57.JPG",
+    "static/media/safinah2.JPG": "/Personal-Portfolio/static/media/safinah2.7c827a36b9ed6ec6bcad.JPG",
+    "static/media/almasena11.jpg": "/Personal-Portfolio/static/media/almasena11.6b1179485a3cf9027f3d.jpg",
+    "static/media/profile.JPG": "/Personal-Portfolio/static/media/profile.dcf004f021366a021449.JPG",
+    "static/media/targetAUV.png": "/Personal-Portfolio/static/media/targetAUV.1b9bdbb078205bd53ef7.png",
+    "static/media/ballDetect.png": "/Personal-Portfolio/static/media/ballDetect.4c4ff18256c51ae8abbd.png",
+    "static/media/auv.png": "/Personal-Portfolio/static/media/auv.6485fea3215387f9206e.png",
+    "static/media/safinah11.jpeg": "/Personal-Portfolio/static/media/safinah11.4ffe3997d2cc904ee781.jpeg",
+    "static/media/gconect1.png": "/Personal-Portfolio/static/media/gconect1.421a0d9a5fc615927532.png",
+    "static/media/yolo.png": "/Personal-Portfolio/static/media/yolo.b63b760138bc5d379a5f.png",
+    "static/media/gconect2.png": "/Personal-Portfolio/static/media/gconect2.b895cf2e11de45e4ca51.png",
+    "static/media/css.png": "/Personal-Portfolio/static/media/css.9f33c557b92e4e2e1cc8.png",
+    "static/media/gmail.png": "/Personal-Portfolio/static/media/gmail.2c59075050cc64000db1.png",
+    "static/media/js.png": "/Personal-Portfolio/static/media/js.a2a16f087e18d50f3d99.png",
+    "static/media/wa.png": "/Personal-Portfolio/static/media/wa.71bc950f39054393e647.png",
+    "static/media/python.png": "/Personal-Portfolio/static/media/python.91fe66c93d19d67edfc8.png",
+    "static/media/html.png": "/Personal-Portfolio/static/media/html.3ee09eca0bb12788caf1.png",
+    "static/media/tf.png": "/Personal-Portfolio/static/media/tf.92b3284cf1b97007a835.png",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.37f1a7cb.css.map": "/Personal-Portfolio/static/css/main.37f1a7cb.css.map",
+    "main.ef3d32b5.js.map": "/Personal-Portfolio/static/js/main.ef3d32b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37f1a7cb.css",
+    "static/js/main.ef3d32b5.js"
+  ]
+}
