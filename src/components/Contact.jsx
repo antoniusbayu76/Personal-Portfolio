@@ -12,11 +12,11 @@ const Contact = () => {
         <div className='w-full grid grid-cols-2 gap-4 text-center item-center py-8 text-white'>
             <div className='shadow-md shadow-[#575661] '>
                 <img className='w-20 mx-auto' src={wa} alt='whatsapp icon'/>
-                <p className='my-4 text-[11px] sm:text-base break-words'>+62-821-3596-4677</p>
+                <p className='my-4 text-[10px] sm:text-base break-words'>+62-821-3596-4677</p>
             </div>
             <div className='shadow-md shadow-[#575661] '>
                 <img className='w-20 mx-auto' src={gmail} alt='gmail icon'/>
-                <p className='my-4 text-[11px] sm:text-base break-words'>antoniusbayu96@gmail.com</p>
+                <p className='my-4 text-[10px] sm:text-base break-words'>antoniusbayu96@gmail.com</p>
             </div>
         </div>
         <div className='pb-8'>
